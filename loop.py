@@ -79,3 +79,16 @@ def fib(n):
 
 
 fib(2000)
+
+
+
+
+
+
+print("Do while loop")
+i = 1
+while True:
+    print(i)
+    i = i + 1
+    if (i > 5):
+        break
